@@ -109,7 +109,7 @@ section.home{
 }
 
 .institute-name {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
     color: var(--primary-light-clr);
     text-transform: uppercase;
